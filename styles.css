@@ -1,1 +1,40 @@
 /*  your css code here. If applicable */
+body{
+	background-color: rgb(204, 204, 204);
+	font-family:sans-serif;
+}
+h1{
+	text-align:center;
+}
+ul{
+	background:white;
+	border:1px solid black;
+	border-radius: 10px;
+	padding:20px;
+	margin-bottom: 0px;
+	
+}
+li{
+	list-style-type:none;
+	
+}
+a{
+	text-decoration-line: none
+}
+h2{
+	margin-top:0px;
+	text-align:center;
+}
+div{
+	background:white;
+	border:1px solid black;
+	border-radius: 10px;
+	padding:10px;
+	margin:0px 20px;
+}
+p{
+	margin:0;
+}
+audio{
+	width:400px;
+}
