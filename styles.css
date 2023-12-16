@@ -39,3 +39,8 @@ p{
 audio{
 	width:400px;
 }
+video , audio{
+	background-color:rgb(255,255,255);
+	padding:2px;
+	border-redius:2px;
+}
